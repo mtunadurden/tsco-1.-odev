@@ -1,0 +1,27 @@
+Pantolon,Kıyafet,120,50
+Pantolon,Kıyafet,150,30
+Pantolon,Kıyafet,200,20
+Tişört,Kıyafet,50,100
+Tişört,Kıyafet,60,80
+Tişört,Kıyafet,70,60
+Sweatshirt,Kıyafet,90,30
+Sweatshirt,Kıyafet,110,20
+Sweatshirt,Kıyafet,130,10
+Ceket,Kıyafet,300,25
+Ceket,Kıyafet,350,20
+Ceket,Kıyafet,400,10
+Eşofman,Kıyafet,80,50
+Eşofman,Kıyafet,90,40
+Eşofman,Kıyafet,100,30
+Kalem,Kırtasiye,10,100
+Kalem,Kırtasiye,15,80
+Kalem,Kırtasiye,20,60
+Sırt Çantası,Kırtasiye,200,30
+Sırt Çantası,Kırtasiye,250,20
+Sırt Çantası,Kırtasiye,300,15
+Silgi,Kırtasiye,5,200
+Silgi,Kırtasiye,7,150
+Silgi,Kırtasiye,10,100
+Defter,Kırtasiye,20,100
+Defter,Kırtasiye,25,80
+Defter,Kırtasiye,30,60
